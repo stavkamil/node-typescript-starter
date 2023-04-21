@@ -7,7 +7,7 @@ This repository serves as a starter template for creating Node.js projects using
 To get started with this template, you can clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/node-typescript-starter.git
+git clone https://github.com/stavkamil/node-typescript-starter.git
 cd node-typescript-starter
 npm install
 ```
