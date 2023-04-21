@@ -9,7 +9,7 @@ To get started with this template, you can clone the repository and install the 
 ```bash
 git clone https://github.com/<your-username>/node-typescript-starter.git
 cd node-typescript-starter
-npm install`
+npm install
 ```
 
 You can then run the project in development mode using the following command:
